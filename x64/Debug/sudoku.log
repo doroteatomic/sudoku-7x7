@@ -1,0 +1,3 @@
+﻿  sudoku.c
+D:\Users\Korisnik\Documents\ferit\visual studio\sudoku\sudoku\sudoku.c(122,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sudoku.vcxproj -> D:\Users\Korisnik\Documents\ferit\visual studio\sudoku\sudoku\x64\Debug\sudoku.exe
